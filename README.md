@@ -1,4 +1,4 @@
-# Clinical Trail Database
+# Clinical Trial Database
 
 A comprehensive relational database system for managing clinical trial data, built using SQL. This project captures various aspects of clinical trials, including participants (adults and minors), trial designs, enrollments, adverse events, and statistical analysis.
 
